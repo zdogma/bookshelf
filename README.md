@@ -1,4 +1,4 @@
-# bookshelf
+bookshelf
 ===
 
 Sample Go Api Server Using `Gin` and `xorm`.
